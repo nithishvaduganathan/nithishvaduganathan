@@ -2,6 +2,7 @@
 
 🎓 B.Tech student in Artificial Intelligence & Data Science
 📍 Thiruvarur, Tamil Nadu | 📧 nithishvaduganathan07@gmail.com
+Portfolio: https://nithishvaduganathan.vercel.app
 🔗 Portfolio | LinkedIn | LeetCode
 
 Aspiring AI and Software Engineer with a strong foundation in Machine Learning,
